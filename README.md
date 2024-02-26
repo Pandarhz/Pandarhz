@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Pandarhz
+- 👋 Hi, I’m @Pandarhz MIASHS Student from Lyon2 in France
 - 👀 I’m interested in Data Science and IA.
 - 🌱 I’m currently learning Web back-end, Python, R.
 
