@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Pandarhz MIASHS Student from Lyon2 in France
+- 👋 Hi, I’m @Pandarhz, Math, IT, cognitive science student from Lyon2 in France
 - 👀 I’m interested in Data Science and IA.
 - 🌱 I’m currently learning Web back-end, Python, R.
 
