@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Arthur, Math, IT, cognitive science student from Lyon2 in France
-- 👀 I’m interested in Data Science and IA.
-- 🌱 I’m currently learning Web back-end, Python, R.
+- 👋 Hi, I’m Arthur, Math, IT, cognitive science student from Lyon in France
+- 👀 I’m interested in Data Science and Infrastructure.
+- 🌱 I’m currently learning Go, k8s, AWS.
 
 <!---
 Pandarhz/Pandarhz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
